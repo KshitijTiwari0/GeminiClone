@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 src/config/gemini.js
-dist\assets\index-DANQYRew.js
+dist/assets/index-DANQYRew.js
 
 
 
